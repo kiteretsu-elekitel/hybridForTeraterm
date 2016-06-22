@@ -1,0 +1,5 @@
+#説明
+これはTeraTerm用のcolorschemeです。
+TERATERM.INIファイルの92行目を「ANSIColor」の行で上書きすれば使えます。
+
+backgroundとforegroundはメニューのウィンドウ設定から変更してください
